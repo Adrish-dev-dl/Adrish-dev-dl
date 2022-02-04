@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Adrish-dev-dl
 - 👀 I’m interested in building things
 - 🌱 I’m currently learning computer science and my area of interest is deep learning and data science
-- 💞️ I’m looking to collaborate on ML DL PROJECTS
+- 💞️ I’m looking to collaborate on Software Development projects (Machine Learning, Python, sql
+- )
 - 📫 How to reach me adrishmitracrj@gmail.com
 
 <!---
